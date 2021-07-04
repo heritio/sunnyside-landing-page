@@ -114,6 +114,7 @@
 .header__nav_mobile_items ul li {
   list-style: none;
   margin: 25px auto;
+  cursor: pointer;
 }
 
 .header__nav_mobile_items ul li:last-child {
